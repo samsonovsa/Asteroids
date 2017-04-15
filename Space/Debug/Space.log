@@ -1,0 +1,12 @@
+﻿  Source.cpp
+d:\projects\cpp\games\space\space\source.cpp(13): warning C4129: P: неизвестная escape-последовательность
+d:\projects\cpp\games\space\space\source.cpp(13): warning C4129: C: неизвестная escape-последовательность
+d:\projects\cpp\games\space\space\source.cpp(13): warning C4129: G: неизвестная escape-последовательность
+d:\projects\cpp\games\space\space\source.cpp(13): warning C4129: S: неизвестная escape-последовательность
+d:\projects\cpp\games\space\space\source.cpp(14): warning C4129: P: неизвестная escape-последовательность
+d:\projects\cpp\games\space\space\source.cpp(14): warning C4129: C: неизвестная escape-последовательность
+d:\projects\cpp\games\space\space\source.cpp(14): warning C4129: G: неизвестная escape-последовательность
+d:\projects\cpp\games\space\space\source.cpp(14): warning C4129: S: неизвестная escape-последовательность
+d:\projects\cpp\games\space\space\source.cpp(14): warning C4129: i: неизвестная escape-последовательность
+  Space.vcxproj -> D:\PROJECTS\CPP\GAMES\Space\Debug\Space.exe
+  Space.vcxproj -> D:\PROJECTS\CPP\GAMES\Space\Debug\Space.pdb (Partial PDB)
